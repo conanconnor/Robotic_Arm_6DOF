@@ -1,4 +1,4 @@
-# Robotic_Arm_6DOF
+# Robotic Arm 6-DOF
 
 | **Christopher Abdul-Ahad** | **Conan Connor** |
 |-----------------|----------------|

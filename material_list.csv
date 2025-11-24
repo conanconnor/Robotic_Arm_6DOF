@@ -1,17 +1,17 @@
-Catagory,Item,Quanitity
-3D printed parts,All printed components,24
-Mechanical,M3 12mm countersunk screw,18
-Mechanical,M3 16mm countersunk screw,7
-Mechanical,M1 6mm screw,6
-Mechanical,M1.7 8mm screw,16
-Mechanical,M3 hexagon self-locking nylon nuts,7
-Electrical,Arduino UNO R3,1
-Electrical,5V 10A Power Supply,1
-Electrical,MG996R Servo Motor,3
-Electrical,SG90 Servo Motor,3
-Electrical,30cm servo motor wire extender,2
-Electrical,10cm servo motor wire extender,1
-Electrical,Male to male jumper wires,4
-Electrical,Female to male jumper wires,15
-Electrical,16 AWG Wire,1
-Electrical,10A Choc Block,2
+Catagory,Item,Quanitity,
+3D printed parts,All printed components,24,
+Mechanical,M3 12mm countersunk screw,18,
+Mechanical,M3 16mm countersunk screw,7,
+Mechanical,M1 6mm screw,6,
+Mechanical,M1.7 8mm screw,16,
+Mechanical,M3 hexagon self-locking nylon nuts,7,
+Electrical,Arduino UNO R3,1,
+Electrical,5V 10A Power Supply,1,
+Electrical,MG996R Servo Motor,3,
+Electrical,SG90 Servo Motor,3,
+Electrical,30cm servo motor wire extender,2,
+Electrical,10cm servo motor wire extender,1,
+Electrical,Male to male jumper wires,4,
+Electrical,Female to male jumper wires,15,
+Electrical,16 AWG Wire,1,
+Electrical,10A Choc Block,2,

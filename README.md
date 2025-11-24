@@ -51,3 +51,5 @@ If we were to continue developing this project or rebuild it from scratch we wou
 - Upgrade control hardware in the future such as better servos, encoders or stepper motors for greater accuracy and load capacity. 
 
 <img src="https://github.com/user-attachments/assets/06e1029b-ae25-4052-b286-d5e9afb1b518" width="450">
+
+https://github.com/user-attachments/assets/dea5969e-bc63-4acd-a8a1-89a3208a30c9

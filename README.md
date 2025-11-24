@@ -1,5 +1,5 @@
 # Robotic_Arm_6DOF
-A fully custom 6-DOF robotic arm designed and built from scratch.
+A fully custom 6 degree of freedom robotic arm designed, built and programmed from scratch. This project was created as a personal engineering project to explore building a functional robotic system from the ground up.
 
 
 
